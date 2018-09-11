@@ -35,13 +35,13 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="login.php">Login</a>
+              <a class="nav-link" href="offers.php">Offers</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Services</a>
+              <a class="nav-link" href="locations.php">Locations</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
+              <a class="nav-link" href="artists.php">Artist</a>
             </li>
           </ul>
         </div>
